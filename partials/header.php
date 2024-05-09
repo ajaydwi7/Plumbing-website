@@ -30,7 +30,7 @@ if (isset($_SESSION['user-id'])) {
 
         <nav>
             <div class="container nav__container">
-                <a href="<?= ROOT_URL ?>index.php" class="nav__logo">Glister UK</a>
+                <a href="<?= ROOT_URL ?>index.html" class="nav__logo">Glister UK</a>
                 <ul class="nav__items">
                     <li><a href="<?= ROOT_URL ?>blog.php">Blog</a></li>
                     <li><a href="<?= ROOT_URL ?>about.php">About</a></li>

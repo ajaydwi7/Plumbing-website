@@ -57,7 +57,7 @@ require 'config/database.php';
                         <div class="header__main-content-wrapper p-relative">
                             <div class="header__main-left">
                                 <div class="header__logo">
-                                    <a href="<?= ROOT_URL ?>index.php" class="logo-dark"><img src="assets/img/logo/logo-black.png" alt="logo-img"></a>
+                                    <a href="<?= ROOT_URL ?>index.html" class="logo-dark"><img src="assets/img/logo/logo-black.png" alt="logo-img"></a>
                                 </div>
                                 <div class="area-separator d-none d-lg-inline-flex"></div>
                                 
@@ -67,7 +67,7 @@ require 'config/database.php';
                                     <nav id="mobile-menu">
                                         <ul>
                                             <li >
-                                                <a href="<?= ROOT_URL ?>index.php">Home</a>
+                                                <a href="<?= ROOT_URL ?>index.html">Home</a>
                                             </li>
                                             <li class="menu-item-has-children">
                                                 <a href="<?= ROOT_URL ?>services.php">Services</a>
@@ -128,7 +128,7 @@ require 'config/database.php';
             <div class="side-info-content">
                 <div class="offset__widget offset__header">
                     <div class="offset__logo">
-                        <a href="<?= ROOT_URL ?>index.php">
+                        <a href="<?= ROOT_URL ?>index.html">
                             <img src="assets/img/logo/logo-white.svg" alt="logo">
                         </a>
                     </div>
@@ -206,7 +206,7 @@ require 'config/database.php';
                                 </div>
                                 <div class="col-4 col-sm-4">
                                     <div class="offset-insta__thumb">
-                                        <a href=assets/img/offcanvas/bathroom-06.webp">
+                                        <a href="assets/img/offcanvas/bathroom-06.webp">
                                             <img src="assets/img/offcanvas/bathroom-06.webp" alt="image not found"></a>
                                     </div>
                                 </div>
